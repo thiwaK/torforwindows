@@ -68,7 +68,7 @@ class Tor():
 			self.ps.tor_obj = self
 
 			sys.stdout.write(fc + sd + "["+time.strftime("%H:%M:%S")+"] " + sb + fw + " Start Service\n")
-			cmd = ["Proxifier\\Proxifier.exe"]
+			cmd = ["Data\\Proxifier\\Proxifier.exe"]
 			self.ps.runBackground(cmd, "proxifier")
 
 			cmd = [self.torexe,
