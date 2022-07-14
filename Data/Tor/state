@@ -1,7 +1,38 @@
-# Tor state file last generated on 2022-07-14 20:24:22 local time
+# Tor state file last generated on 2022-07-14 21:29:37 local time
 # Other times below are in UTC
 # You *do not* need to edit this file.
 
+CircuitBuildTimeBin 755 1
+CircuitBuildTimeBin 815 1
+CircuitBuildTimeBin 845 1
+CircuitBuildTimeBin 865 1
+CircuitBuildTimeBin 915 1
+CircuitBuildTimeBin 965 1
+CircuitBuildTimeBin 1015 1
+CircuitBuildTimeBin 1215 1
+CircuitBuildTimeBin 1325 1
+CircuitBuildTimeBin 2315 1
 Dormant 0
-LastWritten 2022-07-14 14:54:22
+Guard in=default rsa_id=0439AB73BB2B8730FCB15B18252928FC0C2EDF91 nickname=johnsrelay sampled_on=2022-07-03T09:30:55 sampled_idx=0 sampled_by=0.4.6.9 listed=1 confirmed_on=2022-07-05T15:56:40 confirmed_idx=1 pb_circ_attempts=6.000000 pb_circ_successes=6.000000 pb_successful_circuits_closed=6.000000
+Guard in=default rsa_id=ACE420872AF1F8A7E064403D92669D14C5CE74AE nickname=qwertz1 sampled_on=2022-07-13T05:50:07 sampled_idx=1 sampled_by=0.4.6.9 listed=1 confirmed_on=2022-07-06T04:30:29 confirmed_idx=0 pb_use_attempts=1.000000 pb_use_successes=1.000000 pb_circ_attempts=4.000000 pb_circ_successes=4.000000 pb_successful_circuits_closed=4.000000
+Guard in=default rsa_id=485492A420AFDFFFBCCA05DFF317CDCA43052C11 nickname=arbitraryTessa5 sampled_on=2022-07-12T00:27:52 sampled_idx=2 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=BD5A6D52108CE9A4FC9B221CE3C6D92F1595A314 nickname=Untamo sampled_on=2022-07-09T02:49:36 sampled_idx=3 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=A3168D0AB53B8709160F7725739146DE46682835 nickname=GenericRelay sampled_on=2022-07-08T23:01:46 sampled_idx=4 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=2BCA0A8B5759DBD764BF9FA5D1B3AEE9D74D2B68 nickname=Waeswynn sampled_on=2022-07-06T12:48:21 sampled_idx=5 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=EAA9A19B375810F9235B6EE12411F3DBEFC9B501 nickname=jwt56166 sampled_on=2022-07-08T12:25:44 sampled_idx=6 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=F40016C5A2D7460DA5CCBF8A2346135D6BBC3DD0 nickname=jwt85328 sampled_on=2022-07-03T02:55:35 sampled_idx=7 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=CB6F07BB3D81A32EF2569FC4E0511E36BF24C034 nickname=as212520 sampled_on=2022-07-05T01:44:46 sampled_idx=8 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=A0BD104E35D36F5630B01EB5370597EB09204C99 nickname=Strelnikov sampled_on=2022-07-06T02:39:05 sampled_idx=9 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=391BBFC99AE67BE8E726B2C6E724A5B33F1789B3 nickname=1bluDEicebeer92 sampled_on=2022-07-05T03:28:06 sampled_idx=10 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=6B028F58A5366A453427FFB3E693E470E6431BC3 nickname=whatarewedoing sampled_on=2022-07-14T07:46:46 sampled_idx=11 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=C45FE5C41ACC37E4EA4687FFC54A74F124739DAF nickname=frozone sampled_on=2022-07-14T08:48:30 sampled_idx=12 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=7A3E534C033E3836BD5AF223B642853C502AB33A nickname=Unnamed sampled_on=2022-07-06T15:11:55 sampled_idx=13 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=F98CE40031795D3704365019EA9F8AC56AE2994B nickname=torproxy01 sampled_on=2022-07-14T01:58:52 sampled_idx=14 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=63540827C4832D214984EA47B7A68C593F9F862F nickname=Unnamed sampled_on=2022-07-12T12:49:21 sampled_idx=15 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=303E2DA7D4A58515E24BE550784221F99CB4EFB5 nickname=QECm2r2 sampled_on=2022-07-07T19:04:54 sampled_idx=16 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=3051454CDA9A06428830F127DDF29D9098A7FB5C nickname=green sampled_on=2022-07-03T18:01:14 sampled_idx=17 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=26655E1DD93751B652AC8D534495ABB36415BEC7 nickname=Felicette sampled_on=2022-07-12T09:34:30 sampled_idx=18 sampled_by=0.4.6.9 listed=1
+Guard in=default rsa_id=809CFEAA412ACD2B80750209939745F02334BB53 nickname=Unnamed sampled_on=2022-07-13T04:00:29 sampled_idx=19 sampled_by=0.4.6.9 listed=1
+LastWritten 2022-07-14 15:59:37
 TorVersion Tor 0.4.6.9 (git-ea2ada6d1459f829)
+TotalBuildTimes 10

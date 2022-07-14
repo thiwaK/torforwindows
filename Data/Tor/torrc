@@ -1,7 +1,7 @@
 
-ClientOnionAuthDir C:\Users\TK\Desktop\WinTor\Data\Tor\onion-auth
+ClientOnionAuthDir D:\Code\Python\torforwindows\Data\Tor\onion-auth
 ControlPort 9051
-DataDirectory C:\Users\TK\Desktop\WinTor\Data\Tor
-GeoIPFile C:\Users\TK\Desktop\WinTor\Data\Tor\geoip
-GeoIPv6File C:\Users\TK\Desktop\WinTor\Data\Tor\geoip6
+DataDirectory D:\Code\Python\torforwindows\Data\Tor
+GeoIPFile D:\Code\Python\torforwindows\Data\Tor\geoip
+GeoIPv6File D:\Code\Python\torforwindows\Data\Tor\geoip6
 SocksPort 9050
