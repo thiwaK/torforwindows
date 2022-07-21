@@ -22,7 +22,13 @@
 			<Location>Winsock</Location>
 		</ProxificationPortableEngine>
 	</Options>
-	<ProxyList />
+	<ProxyList>
+		<Proxy id="100" type="SOCKS5">
+			<Options>48</Options>
+			<Port>9050</Port>
+			<Address>127.0.0.1</Address>
+		</Proxy>
+	</ProxyList>
 	<ChainList />
 	<RuleList>
 		<Rule enabled="true">
@@ -31,7 +37,7 @@
 			<Name>Localhost</Name>
 		</Rule>
 		<Rule enabled="true">
-			<Action type="Direct" />
+			<Action type="Proxy">100</Action>
 			<Name>Default</Name>
 		</Rule>
 	</RuleList>
